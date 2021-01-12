@@ -10,6 +10,9 @@
     background-color: white;
 }
 #inputEmail{
-    width: 27em;
+    width: 20em;
     border-radius: 5px;
+}
+.equal-width h2 p{
+ width: 20em;
 }
