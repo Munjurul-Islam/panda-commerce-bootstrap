@@ -1,0 +1,15 @@
+.background-slide{
+    background-color: #feeae9
+}
+.catagories img{
+ width: 100px;
+ margin-left: 6em ;
+}
+.card-footer-2{
+    border: none;
+    background-color: white;
+}
+#inputEmail{
+    width: 27em;
+    border-radius: 5px;
+}
